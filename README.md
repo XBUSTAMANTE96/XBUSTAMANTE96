@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<iframe src="https://giphy.com/embed/7uLItJVS8oaPvaoALH" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LINEFRIENDS-linefriends-minini-lenini-7uLItJVS8oaPvaoALH">via GIPHY</a></p>
-
+# Hi there 👋
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NoMDEycnZzb25rc2lmOHR2OTkzNXo1bjI3ZDZvbzFqZnZpanVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W1T1DxaxgqQQgdvHvq/giphy.gif" width='100'>
 - 🔭 I’m currently working on Javascript,Nodejs,Expressjs,React,aws cloud, google cloud.
 - 🌱 I’m currently learning ... Python,sql, ibmcloud
 
