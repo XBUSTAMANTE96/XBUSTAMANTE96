@@ -1,6 +1,6 @@
 # Hi there 👋
 ![portada]
-(bannergithubxoch.png)
+(banner-github-xoch.png)
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NoMDEycnZzb25rc2lmOHR2OTkzNXo1bjI3ZDZvbzFqZnZpanVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W1T1DxaxgqQQgdvHvq/giphy.gif" width='100'>
 - 🔭 I’m currently working on Javascript,Nodejs,Expressjs,React,aws cloud, google cloud.
 - 🌱 I’m currently learning ... Python,sql, ibmcloud
