@@ -1,5 +1,9 @@
-# Hi there 👋
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is xoch
+============================================================================================================================
+
+Fullstack Developer
+-------------------
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NoMDEycnZzb25rc2lmOHR2OTkzNXo1bjI3ZDZvbzFqZnZpanVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W1T1DxaxgqQQgdvHvq/giphy.gif" width='100'>
 - 🔭 I’m currently working on Javascript,Nodejs,Expressjs,React,aws cloud, google cloud.
 - 🌱 I’m currently learning ... Python,sql, ibmcloud
